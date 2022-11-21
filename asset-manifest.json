@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fnh355-world-hunger/static/css/main.bbc60948.css",
-    "main.js": "/fnh355-world-hunger/static/js/main.fb0262a5.js",
+    "main.js": "/fnh355-world-hunger/static/js/main.f9340e64.js",
     "index.html": "/fnh355-world-hunger/index.html",
     "main.bbc60948.css.map": "/fnh355-world-hunger/static/css/main.bbc60948.css.map",
-    "main.fb0262a5.js.map": "/fnh355-world-hunger/static/js/main.fb0262a5.js.map"
+    "main.f9340e64.js.map": "/fnh355-world-hunger/static/js/main.f9340e64.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc60948.css",
-    "static/js/main.fb0262a5.js"
+    "static/js/main.f9340e64.js"
   ]
 }
