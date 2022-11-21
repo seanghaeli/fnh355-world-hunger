@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fullheight {
+  height: 100%;
+}
+
+.downbutton {
+  top: 90%;
+  left: 5%;
+}
+
+.inner {
+  display: table;
+  margin: 0 auto;
+}
+
+.section {
+  min-height: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.horzalign {
+  margin: 0 auto;
+  border: solid;
+}
+
+.childClass {
+  position: absolute;
+  opacity: 0.6;
+  height: 150px;
+  width: 200px;
+}
+
+.underworld {
+  padding: 2%;
+}
